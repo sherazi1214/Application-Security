@@ -1,4 +1,4 @@
-Application Security
+# Application Security
 
 **English:**
 Application Security means protecting software applications from threats and vulnerabilities during development, deployment, and runtime. It includes secure coding, testing, patching, and monitoring.
